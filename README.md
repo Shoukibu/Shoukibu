@@ -27,12 +27,12 @@
 
 <br>
 
-- 🎓 Computer Science student focused on **cybersecurity**
-- 🕹️ Passionate about digital worlds and **MMOs**
+- 🎓 Computer Science student focused on cybersecurity
+- 🕹️ Passionate about digital worlds and MMOs
 - 🎬 Filmmaker
-- 🎧 Into **indie rock**, anime, and servers
-- 🏠 Running a **homelab**
-- 🛠️ Currently building **Miku Miku Bean**, a network vulnerability scanner in Go
+- 🎧 Into indie rock, anime, and servers
+- 🏠 Running a homelab
+- 🛠️ Currently building Miku Miku Bean, a network vulnerability scanner in Go
 </div>
 <br>
 
@@ -47,7 +47,7 @@
 
 
 <div align="center">
-
+<br>
 **💻 Programming Languages**
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
