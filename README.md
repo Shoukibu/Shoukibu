@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="/home/kiba/Downloads/banner1.png" width="100%"/>
+<img src="./banner1.png" width="100%"/>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="/home/kiba/Downloads/banner2.png" width="100%"/>
+<img src="./banner2.png" width="100%"/>
 
 </div>
 
